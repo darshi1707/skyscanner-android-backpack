@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkyScanner</string>
+    <string name="flight_schedule">Flight Schedule</string>
+    <string name="flight_number_label">Flight Number</string>
+    <string name="flight_number_value">BA-2490</string>
+    <string name="departure_label">Departure</string>
+    <string name="departure_airport">LHR (London Heathrow)</string>
+    <string name="departure_time">Time: 10:45 AM</string>
+    <string name="arrival_label">Arrival</string>
+    <string name="arrival_airport">JFK (New York)</string>
+    <string name="arrival_time">Time: 01:50 PM</string>
+</resources>

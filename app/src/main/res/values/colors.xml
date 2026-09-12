@@ -1,0 +1,7 @@
+<resources>
+    <!-- Add these Skyscanner palette colors -->
+    <color name="skyscanner_background">#F1F2F8</color>
+    <color name="skyscanner_text_primary">#111236</color>
+    <color name="skyscanner_text_secondary">#68697F</color>
+    <color name="skyscanner_primary_blue">#0770E3</color>
+</resources>
